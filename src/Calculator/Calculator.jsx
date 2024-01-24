@@ -20,7 +20,7 @@ const Calculator = () => {
   };
 
   const handleClear = () => {
-    setResultValue("0");
+    setResultValue("");
   };
 
   return (
